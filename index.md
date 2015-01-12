@@ -3,7 +3,7 @@ width: 1920
 height: 1080
 transition: rotate
 transition-speed: slow
-
+id: inicio
 
 # Autocuradoria para Iniciantes
 
@@ -78,7 +78,9 @@ Para chegar ao valor do evento, calculamos o número de horas necessárias para 
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+[Inicio](#/inicio) | [Economia da Atenção](#/evento) | [Condução e Realização](#/breno) | 
 <hr>
 <h6>Este site foi totalmente desenvolvido através de plataformas _open source_: <a href="http://www.rstudio.com/" target="_blank">Rstudio</a>
 e <a href="http://github.com/" target="_blank">Github</a> | Creative Commons <a href="https://github.com/paternogbc/breno/tree/gh-pages" target="_blank">Paternogbc 2015</a>
