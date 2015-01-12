@@ -7,59 +7,63 @@ transition-speed: slow
 
 # Autocuradoria para Iniciantes
 
-Se a vida parece luta com o sertão por fora, talvez seja reflexo de um tipo de vivência com o *ser tão* por dentro  
+Se a vida parece luta com o sertÃ£o por fora, talvez seja reflexo de um tipo de vivÃªncia com o *ser tÃ£o* por dentro  
   
 <br>
-* **Primeiro Evento**: Economia da Atenção (7-8 de março de 2015)
+* **Primeiro Evento**: Economia da AtenÃ§Ã£o (7-8 de marÃ§o de 2015)
 [saiba mais](#/evento)
 * **Condutor:** [Breno Xavier](#/breno)
-* **Realização:** Raiar e Chácara Lua Branca
+* **RealizaÃ§Ã£o:** Raiar e ChÃ¡cara Lua Branca
 
 
-Economia da atenção
+Economia da atenÃ§Ã£o
 ====================
 id: evento
 left: 70% 
  <p align="justify"> 
-Sem as qualidades da atenção, como poderíamos estudar, ouvir, trabalhar ou decidir qual rumo tomar? Nossa própria percepção do que é real depende do foco de nossa atenção: o que prestamos atenção parece significativo enquanto o que ignoramos parece insignificante e até mesmo inexistente. A atenção é seletiva e condiciona decisivamente a experiência e o saber de experiência. Por essa razão, o renomado psicólogo William James acreditava que a capacidade de conduzir conscientemente a atenção é a raiz do discernimento e, portanto, do caráter. Podemos perceber isso por nós mesmos: as aflições e angústias com as quais nos debatemos são indissociáveis da qualidade de nossa atenção. Ainda assim, não costumamos tomar a atenção como objeto de nossa atenção. Se o fizéssemos, talvez descobríssemos que a atenção pode ser refinada. Imagine o que aconteceria com a consciência aflitiva se fosse recepcionada por uma atenção bem nutrida, vasta e penetrante.  
+Sem as qualidades da atenÃ§Ã£o, como poderÃ­amos estudar, ouvir, trabalhar ou decidir qual rumo tomar? Nossa prÃ³pria percepÃ§Ã£o do que Ã© real depende do foco de nossa atenÃ§Ã£o: o que prestamos atenÃ§Ã£o parece significativo enquanto o que ignoramos parece insignificante e atÃ© mesmo inexistente. A atenÃ§Ã£o Ã© seletiva e condiciona decisivamente a experiÃªncia e o saber de experiÃªncia. Por essa razÃ£o, o renomado psicÃ³logo William James acreditava que a capacidade de conduzir conscientemente a atenÃ§Ã£o Ã© a raiz do discernimento e, portanto, do carÃ¡ter. Podemos perceber isso por nÃ³s mesmos: as afliÃ§Ãµes e angÃºstias com as quais nos debatemos sÃ£o indissociÃ¡veis da qualidade de nossa atenÃ§Ã£o. Ainda assim, nÃ£o costumamos tomar a atenÃ§Ã£o como objeto de nossa atenÃ§Ã£o. Se o fizÃ©ssemos, talvez descobrÃ­ssemos que a atenÃ§Ã£o pode ser refinada. Imagine o que aconteceria com a consciÃªncia aflitiva se fosse recepcionada por uma atenÃ§Ã£o bem nutrida, vasta e penetrante.  
 <br>
-Nessa expedição, tomaremos o caminho da atenção para compreender o que nos chama a atenção, por que e como. Investigaremos como a atenção pode ser magnetizada, encantada e utilizada para fins de controle social (imaginário) e econômico. Faremos uso de técnicas de tradições que enfatizam o treinamento da atenção como meio não apenas para reconhecer e tratar de nossos auto-enganos, mas para subsidiar a atividade desperta onde quer que estejamos. 
+Nessa expediÃ§Ã£o, tomaremos o caminho da atenÃ§Ã£o para compreender o que nos chama a atenÃ§Ã£o, por que e como. Investigaremos como a atenÃ§Ã£o pode ser magnetizada, encantada e utilizada para fins de controle social (imaginÃ¡rio) e econÃ´mico. Faremos uso de tÃ©cnicas de tradiÃ§Ãµes que enfatizam o treinamento da atenÃ§Ã£o como meio nÃ£o apenas para reconhecer e tratar de nossos auto-enganos, mas para subsidiar a atividade desperta onde quer que estejamos. 
 </p>
-**Data:** 7 e 8 de março, das 8 as 16 horas  
-**Local:** Chácara Lua Branca, Pium (vide <a href="https://www.google.com/maps/d/edit?mid=zZTID8WggEKc.kygYIshGbAyg" target="_blank">mapa</a>)
+**Data:** 7 e 8 de marÃ§o, das 8 as 16 horas  
+**Local:** ChÃ¡cara Lua Branca, Pium (vide <a href="https://www.google.com/maps/d/edit?mid=zZTID8WggEKc.kygYIshGbAyg" target="_blank">mapa</a>)
 
 ***
 
 **Roteiro** 
 
 <hr>
- 1. Qualidades da atenção  
+ 1. Qualidades da atenÃ§Ã£o  
   - Samadhi: Repouso e Insight
- 2. Atenção, realidade e experiência.
+ 2. AtenÃ§Ã£o, realidade e experiÃªncia.
   - Discernimento e falsidade
-  - Percepção das sensações
- 3. Atenção e consciência aflitiva
- 4. Treinamento da atenção
+  - PercepÃ§Ã£o das sensaÃ§Ãµes
+ 3. AtenÃ§Ã£o e consciÃªncia aflitiva
+ 4. Treinamento da atenÃ§Ã£o
 
 <hr>
 <a href="https://docs.google.com/forms/d/1qU3MhD1Riw2hAM-c1CebzRwn2GhIQZMUclBp8lvheGc/viewform?usp=send_form" target="_blank">Inscreva-se</a> 
 
-Condução e Realização
+ConduÃ§Ã£o e RealizaÃ§Ã£o
 ======
 id: breno
+left: 15%
 <br>
- <p align="justify"> 
-**Breno Xis** é graduado em Comunicação Social, especializado em Educação Holística e Qualidade de Vida. Atua na área de curadoria do conhecimento e se dedica ao estudo e prática da meditação e do treinamento da atenção. 
-Co-realizador dos eventos Mestre-Aprendiz e Renascer na Aldeia.  
-</p>
+
 ![Breno Xis](breno.jpg)  
-Contato: emaildobreno@gmail.com
 
 ***
-<br>
+<br><br>
+ <p align="justify"> 
+**Breno Xis** Ã© graduado em ComunicaÃ§Ã£o Social, especializado em EducaÃ§Ã£o HolÃ­stica e Qualidade de Vida. Atua na Ã¡rea de curadoria do conhecimento e se dedica ao estudo e prÃ¡tica da meditaÃ§Ã£o e do treinamento da atenÃ§Ã£o. Dos mesmos realizadores do <a href="https://www.renascernaaldeia.wordpress.com" target="_blank">Renascer na Aldeia</a>
+e <a href="http://raiar.wordpress.com/mestre-aprendiz/" target="_blank">Mestre Aprendiz</a> , em parceria com a ChÃ¡cara Lua Branca.  
+Contato: emaildobreno@gmail.com
+</p>
 
-Dos mesmos realizadores do <a href="https://www.renascernaaldeia.wordpress.com" target="_blank">Renascer na Aldeia</a>
-e <a href="http://raiar.wordpress.com/mestre-aprendiz/" target="_blank">Mestre Aprendiz</a> , em parceria com a Chácara Lua Branca.
+
+
+
+
 
 
 Como chegamos ao valor do evento?
@@ -68,7 +72,7 @@ id: custo
 <br>
 
 <p align="justify"> 
-Para chegar ao valor do evento, calculamos o número de horas necessárias para preparar o evento (56h) ao número de horas do evento em si (16h), multiplicadas por R$40,00, relativos ao valor da hora/aula do condutor. Somou-se ainda R$500,00, referentes aos gastos com alimentação. O valor total foi dividido pelo número de participantes (14), chegando então ao investimento de R$198,00 por pessoa inscrita. 
+Para chegar ao valor do evento, calculamos o nÃºmero de horas necessÃ¡rias para preparar o evento (56h) ao nÃºmero de horas do evento em si (16h), multiplicadas por R$40,00, relativos ao valor da hora/aula do condutor. Somou-se ainda R$500,00, referentes aos gastos com alimentaÃ§Ã£o. O valor total foi dividido pelo nÃºmero de participantes (14), chegando entÃ£o ao investimento de R$198,00 por pessoa inscrita. 
 </p>
 
 
@@ -76,5 +80,5 @@ Para chegar ao valor do evento, calculamos o número de horas necessárias para pr
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
-<h6>Este site foi totalmente desenvolvido através de plataformas _open source_: <a href="http://www.rstudio.com/" target="_blank">Rstudio</a>
+<h6>Este site foi totalmente desenvolvido atravÃ©s de plataformas _open source_: <a href="http://www.rstudio.com/" target="_blank">Rstudio</a>
 e <a href="http://github.com/" target="_blank">Github</a> | Creative Commons <a href="https://github.com/paternogbc/breno/tree/gh-pages" target="_blank">Paternogbc 2015</a>
