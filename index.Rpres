@@ -76,11 +76,10 @@ Para chegar ao valor do evento, calculamos o número de horas necessárias para 
 </p>
 
 
-
-
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 [Inicio](#/inicio) | [Economia da Atenção](#/evento) | [Condução e Realização](#/breno) | 
 <hr>
-<h6>Este site foi totalmente desenvolvido através de plataformas _open source_: <a href="http://www.rstudio.com/" target="_blank">Rstudio</a>
-e <a href="http://github.com/" target="_blank">Github</a> | Creative Commons <a href="https://github.com/paternogbc/breno/tree/gh-pages" target="_blank">Paternogbc 2015</a>
+<h6>Este site é aberto (Creative Commons) e foi desenvolvido através de plataformas _*open source*_ (<a href="http://www.rstudio.com/" target="_blank">Rstudio</a>
+| <a href="http://github.com/" target="_blank">Github</a>)   
+Acesso ao Código fonte: <a href="https://github.com/paternogbc/breno/tree/gh-pages" target="_blank">Paternogbc 2015</a>
