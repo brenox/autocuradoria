@@ -65,11 +65,8 @@ Contato: emaildobreno@gmail.com
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-[Inicio](#/inicio) | [Economia da Atenção](#/evento) | [Condução e Realização](#/breno) |
-
-
-
-
+[Inicio](#/inicio) | [Economia da Atenção](#/evento) | [Condução e Realização](#/breno) |  [Como chegamos ao valor do evento?
+](#/custo)
 
 
 Como chegamos ao valor do evento?
