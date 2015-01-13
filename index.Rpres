@@ -25,9 +25,10 @@ Sem as qualidades da atenção, como poderíamos estudar, ouvir, trabalhar ou de
 <br>
 Nessa expedição, tomaremos o caminho da atenção para compreender o que nos chama a atenção, por que e como. Investigaremos como a atenção pode ser magnetizada, encantada e utilizada para fins de controle social (imaginário) e econômico. Faremos uso de técnicas de tradições que enfatizam o treinamento da atenção como meio não apenas para reconhecer e tratar de nossos auto-enganos, mas para subsidiar a atividade desperta onde quer que estejamos. 
 </p>
-**Data:** 7 e 8 de março, das 8 as 16 horas  
-**Local:** Chácara Lua Branca, Pium (vide <a href="https://www.google.com/maps/d/edit?mid=zZTID8WggEKc.kygYIshGbAyg" target="_blank">mapa</a>)
 
+
+
+[Inicio](#/inicio) | [Economia da Atenção](#/evento) | [Condução e Realização](#/breno) |
 ***
 
 **Roteiro** 
@@ -44,6 +45,9 @@ Nessa expedição, tomaremos o caminho da atenção para compreender o que nos c
 <hr>
 <a href="https://docs.google.com/forms/d/1qU3MhD1Riw2hAM-c1CebzRwn2GhIQZMUclBp8lvheGc/viewform?usp=send_form" target="_blank">Inscreva-se</a> 
 
+**Data:** 7 e 8 de março, das 8 as 16 horas  
+**Local:** Chácara Lua Branca, Pium (vide <a href="https://www.google.com/maps/d/edit?mid=zZTID8WggEKc.kygYIshGbAyg" target="_blank">mapa</a>)
+
 Condução e Realização
 ======
 id: breno
@@ -59,7 +63,9 @@ left: 15%
 e <a href="http://raiar.wordpress.com/mestre-aprendiz/" target="_blank">Mestre Aprendiz</a> , em parceria com a Chácara Lua Branca.  
 Contato: emaildobreno@gmail.com
 </p>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
+[Inicio](#/inicio) | [Economia da Atenção](#/evento) | [Condução e Realização](#/breno) |
 
 
 
