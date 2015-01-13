@@ -28,7 +28,7 @@ Nessa expedição, tomaremos o caminho da atenção para compreender o que nos c
 
 
 
-[Inicio](#/inicio) | [Economia da Atenção](#/evento) | [Condução e Realização](#/breno) |
+[Inicio](#/inicio) | [Condução e Realização](#/breno) |  [Como chegamos ao valor do evento?](#/custo)
 ***
 
 **Roteiro** 
@@ -65,8 +65,7 @@ Contato: emaildobreno@gmail.com
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-[Inicio](#/inicio) | [Economia da Atenção](#/evento) | [Condução e Realização](#/breno) |  [Como chegamos ao valor do evento?
-](#/custo)
+[Inicio](#/inicio) | [Economia da Atenção](#/evento) |  [Como chegamos ao valor do evento?](#/custo)
 
 
 Como chegamos ao valor do evento?
