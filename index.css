@@ -1,3 +1,18 @@
+.section .reveal .state-background {
+    background: #838f9e;
+}
+
+.section .reveal {
+  color: #ffffff; 
+  }
+
+.section .reveal a:link{
+  color: red; 
+  }
+
+
+
+
 
 
 
