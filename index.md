@@ -4,15 +4,16 @@ height: 1080
 transition: rotate
 transition-speed: slow
 id: inicio
+css: index.css
 
 # Autocuradoria para Iniciantes
 
 Se a vida parece luta com o sertão por fora, talvez seja reflexo de um tipo de vivência com o *ser tão* por dentro  
-  
+
 <br>
 * **Primeiro Evento**: Economia da Atenção (7-8 de março de 2015)
 [saiba mais](#/evento)
-* **Condutor:** [Breno Xavier](#/breno)
+* **Condutor:** [Breno Xis](#/breno)
 * **Realização:** Raiar e Chácara Lua Branca
 
 
@@ -20,14 +21,17 @@ Economia da atenção
 ====================
 id: evento
 left: 70% 
+css: index.css
+
  <p align="justify"> 
 Sem as qualidades da atenção, como poderíamos estudar, ouvir, trabalhar ou decidir qual rumo tomar? Nossa própria percepção do que é real depende do foco de nossa atenção: o que prestamos atenção parece significativo enquanto o que ignoramos parece insignificante e até mesmo inexistente. A atenção é seletiva e condiciona decisivamente a experiência e o saber de experiência. Por essa razão, o renomado psicólogo William James acreditava que a capacidade de conduzir conscientemente a atenção é a raiz do discernimento e, portanto, do caráter. Podemos perceber isso por nós mesmos: as aflições e angústias com as quais nos debatemos são indissociáveis da qualidade de nossa atenção. Ainda assim, não costumamos tomar a atenção como objeto de nossa atenção. Se o fizéssemos, talvez descobríssemos que a atenção pode ser refinada. Imagine o que aconteceria com a consciência aflitiva se fosse recepcionada por uma atenção bem nutrida, vasta e penetrante.  
 <br>
 Nessa expedição, tomaremos o caminho da atenção para compreender o que nos chama a atenção, por que e como. Investigaremos como a atenção pode ser magnetizada, encantada e utilizada para fins de controle social (imaginário) e econômico. Faremos uso de técnicas de tradições que enfatizam o treinamento da atenção como meio não apenas para reconhecer e tratar de nossos auto-enganos, mas para subsidiar a atividade desperta onde quer que estejamos. 
 </p>
-**Data:** 7 e 8 de março, das 8 as 16 horas  
-**Local:** Chácara Lua Branca, Pium (vide <a href="https://www.google.com/maps/d/edit?mid=zZTID8WggEKc.kygYIshGbAyg" target="_blank">mapa</a>)
 
+
+
+[Inicio](#/inicio) | [Condução e Realização](#/breno) |  [Como chegamos ao valor do evento?](#/custo)
 ***
 
 **Roteiro** 
@@ -39,10 +43,16 @@ Nessa expedição, tomaremos o caminho da atenção para compreender o que nos c
   - Discernimento e falsidade
   - Percepção das sensações
  3. Atenção e consciência aflitiva
- 4. Treinamento da atenção
+ 4. Treinamento da atenção    
+ <br>
+ Carga Horária: 16 horas   
+ ~~Inclui certificação~~
 
 <hr>
 <a href="https://docs.google.com/forms/d/1qU3MhD1Riw2hAM-c1CebzRwn2GhIQZMUclBp8lvheGc/viewform?usp=send_form" target="_blank">Inscreva-se</a> 
+
+**Data:** 7 e 8 de março, das 8 as 16 horas  
+**Local:** Chácara Lua Branca, Pium (vide <a href="https://www.google.com/maps/d/edit?mid=zZTID8WggEKc.kygYIshGbAyg" target="_blank">mapa</a>)
 
 Condução e Realização
 ======
@@ -59,11 +69,9 @@ left: 15%
 e <a href="http://raiar.wordpress.com/mestre-aprendiz/" target="_blank">Mestre Aprendiz</a> , em parceria com a Chácara Lua Branca.  
 Contato: emaildobreno@gmail.com
 </p>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
-
-
-
-
+[Inicio](#/inicio) | [Economia da Atenção](#/evento) |  [Como chegamos ao valor do evento?](#/custo)
 
 
 Como chegamos ao valor do evento?
