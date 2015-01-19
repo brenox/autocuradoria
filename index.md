@@ -9,7 +9,7 @@ css: index.css
 
 # Autocuradoria para Iniciantes
 
-Se a vida parece luta com o sertão por fora, talvez seja reflexo de um tipo de vivência com o *ser tão* por dentro.  
+Se a vida parece luta com o sertão por fora, talvez seja reflexo de um tipo de vivência com o *ser tão* por dentro..
 
 <br>
 * **Primeiro Evento**: Economia da Atenção (7-8 de março de 2015)
